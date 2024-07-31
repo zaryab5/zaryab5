@@ -31,7 +31,7 @@
 
 - 📫 Feel free to reach me out **zaryabdev@outlook.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/zaryabdev) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [zaryabdev](https://discordapp.com/users/zaryabdev) my username!
 <!--Intro end-->
 
 
@@ -57,13 +57,13 @@
 </table>
 
  -->
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=zaryab5theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+ trophy (start) -->
 
 
 </p>        
@@ -102,7 +102,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zaryab5&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
